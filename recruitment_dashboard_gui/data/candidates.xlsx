@@ -1,0 +1,6 @@
+id,name,position,status,client,applied_date
+1,John Doe,Software Engineer,Open,TechCorp,2024-03-01
+2,Jane Smith,Product Manager,In Progress,InnovateTech,2024-03-02
+3,Mike Johnson,Data Scientist,Hired,DataCo,2024-02-15
+4,Sarah Wilson,UX Designer,Open,DesignHub,2024-03-05
+5,Tom Brown,DevOps Engineer,Rejected,CloudTech,2024-02-20

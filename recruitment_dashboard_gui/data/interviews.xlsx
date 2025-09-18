@@ -1,0 +1,6 @@
+id,candidate_id,interviewer,date,status,feedback
+1,1,Alex Tech,2024-03-10,Scheduled,
+2,2,Maria Product,2024-03-12,Scheduled,
+3,3,Data Team,2024-02-20,Completed,Excellent technical skills
+4,4,Design Panel,2024-03-15,Scheduled,
+5,5,DevOps Team,2024-02-25,Completed,Not enough experience
